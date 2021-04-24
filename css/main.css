@@ -1,0 +1,24 @@
+ul {
+    list-style: none;
+}
+
+td{
+    width: 10%;
+    background-color: #70CCC2;
+}
+#firt-table{
+    background-color: #7EE5DA;
+}
+#second-table{
+    background-color: #4aada2;
+}
+#third-table{
+    background-color: #41857d;
+}
+
+.search{
+    width: 100%;
+    background-color: #EEEEEE;
+    margin-left: 2px;
+    margin-right: 2px;
+}
